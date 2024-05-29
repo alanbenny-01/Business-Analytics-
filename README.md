@@ -1,1 +1,1 @@
-Different Methodolgies used for Business Analytics in real world.
+Different Methodology used for Business Analytics in real world.
